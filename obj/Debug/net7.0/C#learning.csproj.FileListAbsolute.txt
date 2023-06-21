@@ -1,0 +1,15 @@
+C:\Project_summary\C#learning\bin\Debug\net7.0\C#learning.exe
+C:\Project_summary\C#learning\bin\Debug\net7.0\C#learning.deps.json
+C:\Project_summary\C#learning\bin\Debug\net7.0\C#learning.runtimeconfig.json
+C:\Project_summary\C#learning\bin\Debug\net7.0\C#learning.dll
+C:\Project_summary\C#learning\bin\Debug\net7.0\C#learning.pdb
+C:\Project_summary\C#learning\obj\Debug\net7.0\C#learning.csproj.AssemblyReference.cache
+C:\Project_summary\C#learning\obj\Debug\net7.0\C#learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project_summary\C#learning\obj\Debug\net7.0\C#learning.AssemblyInfoInputs.cache
+C:\Project_summary\C#learning\obj\Debug\net7.0\C#learning.AssemblyInfo.cs
+C:\Project_summary\C#learning\obj\Debug\net7.0\C#learning.csproj.CoreCompileInputs.cache
+C:\Project_summary\C#learning\obj\Debug\net7.0\C#learning.dll
+C:\Project_summary\C#learning\obj\Debug\net7.0\refint\C#learning.dll
+C:\Project_summary\C#learning\obj\Debug\net7.0\C#learning.pdb
+C:\Project_summary\C#learning\obj\Debug\net7.0\C#learning.genruntimeconfig.cache
+C:\Project_summary\C#learning\obj\Debug\net7.0\ref\C#learning.dll
